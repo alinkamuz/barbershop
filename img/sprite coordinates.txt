@@ -1,0 +1,47 @@
+.sprite {
+    background-image: url(data:image/png;base64,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);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite--icon-login-white {
+    width: 18px;
+    height: 16px;
+    background-position: -20px -20px;
+}
+
+.sprite-icon-fb-black {
+    width: 12px;
+    height: 22px;
+    background-position: -20px -76px;
+}
+
+.sprite-icon-fb-white {
+    width: 12px;
+    height: 22px;
+    background-position: -20px -138px;
+}
+
+.sprite-icon-inst-black {
+    width: 21px;
+    height: 21px;
+    background-position: -20px -200px;
+}
+
+.sprite-icon-inst-white {
+    width: 21px;
+    height: 21px;
+    background-position: -20px -261px;
+}
+
+.sprite-icon-vk-black {
+    width: 25px;
+    height: 16px;
+    background-position: -20px -322px;
+}
+
+.sprite-icon-vk-white {
+    width: 25px;
+    height: 16px;
+    background-position: -20px -378px;
+}
